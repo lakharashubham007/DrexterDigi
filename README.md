@@ -1,34 +1,52 @@
-# React JS Landing Page Template
+# Welcome to DrexterDigi.com Website Templates
 
-**
+![DrexterDigi.com Logo](url_to_your_logo.png)
 
-# 🛎️🛎️ Good news! New & improved [V2](https://github.com/issaafalkattan/react-landing-page-template-2021) is out  
+## About
 
-**
+DrexterDigi.com provides high-quality, free-to-use ReactJS and Angular templates for web development. Whether you're a beginner or an experienced developer, our templates are designed to streamline your web development process.
 
+## Features
 
-### <a href="https://react-landing-page-template-93ne.vercel.app/">LIVE DEMO</a> 
+- **Responsive Design:** Our templates are built with a responsive design, ensuring a seamless experience across various devices.
+- **Easy Customization:** Modify the templates to suit your project needs easily. The code is well-organized and documented.
+- **Cross-Browser Compatibility:** Ensure your web application works smoothly on different browsers.
 
-## Description
-This is a ReactJS based landing page template, fit for a startup company/service with a one page view. The design is inspired by a template from <a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
-All 'visual' data can be easily modified by changing the data.json file.
+## Templates
 
-## Make it Yours!
-### 1. Preps
-You will need to have <a href="https://nodejs.org/">Node JS</a> installed on your pc. 
+Explore our collection of templates for ReactJS and Angular:
 
-### 2. Clone Files
-After cloning the files, you will have to run ```yarn``` followed by ```yarn start``` in the CLI
-### 3. Add your own data 
-Change the data in the ```data.json``` file as well as add any images to ```public/img/```
-You can also change styles by modifying the ```public/css``` files.
+### ReactJS Templates
 
+1. [Template 1](link_to_template_1) - Description of Template 1.
+2. [Template 2](link_to_template_2) - Description of Template 2.
+3. ...
 
-## Like this project?
-<a href="https://www.buymeacoffee.com/issaaf">Buy my a coffee ☕️</a>
+### Angular Templates
 
-## Credits
-##### Free CSS 
-<a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
+1. [Template A](link_to_template_A) - Description of Template A.
+2. [Template B](link_to_template_B) - Description of Template B.
+3. ...
 
-##### Issaaf kattan
+## Getting Started
+
+1. Choose a template from the list above.
+2. Follow the link to the template repository.
+3. Clone the repository or download the ZIP file.
+4. Refer to the template's documentation for installation and customization instructions.
+
+## Contributing
+
+We welcome contributions! If you have improvements or new templates to share, please follow our [contribution guidelines](link_to_contributing_guidelines).
+
+## Support
+
+If you encounter any issues or have questions, feel free to reach out to our support team at [support@drexterdigi.com](mailto:support@drexterdigi.com).
+
+## License
+
+This project is licensed under the [MIT License](link_to_license).
+
+---
+
+Happy coding! 🚀
